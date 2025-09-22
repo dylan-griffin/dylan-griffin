@@ -7,6 +7,7 @@
 - HTML
 - CSS, TailwindCSS and DaisyUI
 - JavaScript
+- React.js & Next.js
 - Svelte & SvelteKit
 - Python
 - Java
